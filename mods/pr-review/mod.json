@@ -1,0 +1,19 @@
+{
+  "place": "none",
+  "focusable": false,
+  "overlay": {
+    "width": 1100,
+    "height": 800
+  },
+  "palette": [
+    {
+      "title": "Review a pull request",
+      "command": "tab.new",
+      "args": {
+        "name": "PR review",
+        "mod": "pr-review"
+      },
+      "words": "github codex claude review"
+    }
+  ]
+}
