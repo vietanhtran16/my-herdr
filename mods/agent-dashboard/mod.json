@@ -1,0 +1,9 @@
+{
+  "place": "none",
+  "palette": [{
+    "title": "Agent dashboard",
+    "command": "tab.new",
+    "args": {"name": "Agent dashboard", "mod": "agent-dashboard"},
+    "words": "board needs you working done"
+  }]
+}
